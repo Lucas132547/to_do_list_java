@@ -22,7 +22,7 @@ Aplicação simples em java com o objetivo de gerenciar uma lista de tarefas, de
 
 ## 📂 Estrutura do Projeto
 
--to_do_list_java/ #Pasta Principal
--│── to_do_list_lucas_silveira # Código-fonte
--│── README.md # Este arquivo
--│── .gitignore # Arquivos ignorados pelo git
+- to_do_list_java/ #Pasta Principal
+- │── to_do_list_lucas_silveira # Código-fonte
+- │── README.md # Este arquivo
+- │── .gitignore # Arquivos ignorados pelo git
