@@ -31,6 +31,5 @@ Aplicação simples em java com o objetivo de gerenciar uma lista de tarefas, de
 
 Lucas Silveira
 📧 Email: lucas.silveira630521@gmail.com
+https://github.com/Lucas132547
 
-
- | GitHub
