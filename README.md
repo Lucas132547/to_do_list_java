@@ -26,3 +26,11 @@ Aplicação simples em java com o objetivo de gerenciar uma lista de tarefas, de
 - │── to_do_list_lucas_silveira # Código-fonte
 - │── README.md # Este arquivo
 - │── .gitignore # Arquivos ignorados pelo git
+
+## 👤 Autor
+
+Lucas Silveira
+📧 Email: lucas.silveira630521@gmail.com
+
+
+ | GitHub
