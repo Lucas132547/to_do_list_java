@@ -7,7 +7,7 @@ Aplicação simples em java com o objetivo de gerenciar uma lista de tarefas, de
 ## 🚀 Funcionalidades
 
 - ✅ Aplicação que cria uma lista de tarefas a serem realizadas e terefas já feitas.
-- ✅ Salva as informações da lista em uum arquivo .txt
+- ✅ Salva as informações da lista em um arquivo .txt
 - ✅ Capaz de adicionar, remover, editar, visualizar a lista de tarefas e de classificar tarefas como prioridades.
 
 ---
